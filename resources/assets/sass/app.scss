@@ -1,10 +1,15 @@
 
 // Fonts
+<<<<<<< HEAD
 //@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+=======
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+>>>>>>> origin/master
 
 // Variables
 @import "variables";
 
+<<<<<<< HEAD
 @import "node_modules/font-awesome/scss/fontawesome";
 
 // Bulma
@@ -13,3 +18,7 @@
 
 //Bulma vue modules like buefy
 @import "node_modules/buefy/src/scss/buefy";
+=======
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+>>>>>>> origin/master
